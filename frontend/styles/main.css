@@ -1,0 +1,97 @@
+body, html {
+  height: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+a {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.card {
+  border-radius: 25px;
+}
+
+#pengantin img {
+  border-radius: 30px;
+  max-width: 300px;
+  height: auto;
+}
+
+#gallery img {
+  border-radius: 10px;
+  max-height: 100%;
+  width: 30%;
+}
+
+.btn {
+  border-radius: 20px;
+}
+
+.minus-margin {
+  margin-top: -40px;
+}
+
+.form-control {
+  border-radius: 20px;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("../images/IMG_1783.JPG");
+  /* Set a specific height */
+  height: 70%;
+  padding: 5rem !important;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  /* The image used */
+  background-image: url("../images/IMG_1814.JPG");
+  /* Set a specific height */
+  height: 70%;
+  padding: 5rem !important;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron {
+  background-image: url("../images/header2.jpg");
+  width: 100%;
+  height: auto;
+  padding: 10rem !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#pengantin {
+  background-color: #E5BDA7;
+}
+
+#coutDown {
+  background-color: #E5BDA7;
+  padding: 10rem !important;
+}
+
+#jadwal, #ucapan {
+  background-color: #FFF7EE;
+  padding: 5rem !important;
+}
+
+#gallery {
+  background-color: #E5BDA7;
+  padding: 5rem !important;
+}
+/*# sourceMappingURL=main.css.map */
